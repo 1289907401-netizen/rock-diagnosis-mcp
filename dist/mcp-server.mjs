@@ -2477,7 +2477,7 @@ function callTool(name, args) {
         theta: num(args, "theta")
       });
     case "diagnose_batch":
-      return diagnoseBatch(batchCases(args));
+      return { items: diagnoseBatch(batchCases(args)) };
     case "diagnose_submission":
       return diagnoseSubmission(args);
     case "generate_variants":
