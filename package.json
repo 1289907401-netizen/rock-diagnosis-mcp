@@ -1,6 +1,6 @@
 {
   "name": "rock-diagnosis-mcp",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "岩诊：岩石力学认知诊断 MCP（stdio）——符号求解、错因反算、靶向命题。",
   "type": "module",
   "bin": {

@@ -2525,7 +2525,7 @@ function handleRpc(req, profile = "agent") {
           serverInfo: {
             name: "rock-mechanics",
             title: "\u5CA9\u8BCA \xB7 \u5CA9\u77F3\u529B\u5B66\u8BA4\u77E5\u8BCA\u65AD",
-            version: "0.2.1"
+            version: "0.3.2"
           },
           instructions: "\u5CA9\u77F3\u529B\u5B66\u53EF\u9A8C\u8BC1\u8BCA\u65AD\u670D\u52A1\uFF1A\u8BA1\u7B97\u8D70\u7B26\u53F7\u6C42\u89E3\u5668\uFF0C\u9519\u56E0\u7528\u9519\u8BEF\u6A21\u578B\u53CD\u7B97\uFF1B\u4E0D\u8981\u53E3\u7B97\u3002"
         }
